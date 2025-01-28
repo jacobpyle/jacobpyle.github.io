@@ -1,0 +1,37 @@
+---
+title: "Jacob Pyle"
+image: jacob_pyle_headshot.jpg
+about:
+  template: solana # see additional templates here https://quarto.org/docs/websites/website-about.html
+  image-width: 10em
+  image-shape: rounded
+  links:  # add links to your various social profiles
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jacobpyle100
+    - icon: github
+      text: Github
+      href: https://github.com/jacobpyle
+---
+
+### This content appears above the formatted about page content.
+
+:::{#hero-heading}
+
+** Upload short biography to this section **
+
+## Education
+
+University of California, Irvine | Irvine, CA
+Masters in Business Analytics | July 2024 - June 2025
+
+University of California, Irvine | Irvine, CA
+B.A in Economics | Minor in Business Managment | Sept 2020 - June 2024
+
+## Experience
+
+enter whatever
+
+:::
+
+### This content appears below the formatted about page content.
